@@ -30,11 +30,6 @@ Hi, I'm Dhiraj Nikam, a Flutter developer passionate about building clean and us
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhirajnikam&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajnikam&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🚀 Advanced Metrics:
-- **🔥 Current Streak**:  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=dhirajnikam&theme=default&hide_border=true&fire=true)
-- **📆 Total Commits (2025)**:  
-  ![](https://github-readme-stats.vercel.app/api?username=dhirajnikam&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhirajnikam&theme=default&no-frame=false&no-bg=true&margin-w=4)
