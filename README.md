@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Dhiraj Nikam, a Flutter developer passionate about building clean and user-friendly applications. I enjoy coding, exploring new technologies, and bringing ideas to life through mobile development.
+
+Hi, I'm Dhiraj Nikam, 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiraj-nikam-b93028b7)
