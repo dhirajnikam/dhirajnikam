@@ -1,44 +1,60 @@
 # Hi, I'm Dhiraj Nikam 👋
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiraj-nikam-b93028b7)
+**Lead Mobile Developer** building apps that people actually use.
+
+🚀 **15K+ downloads** | 🏆 **Customer Hero Award** | 💻 **8+ Apps Published**
 
 ---
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=flat&logo=dart&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-A08021.svg?style=flat&logo=firebase&logoColor=ffcd34)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137.svg?style=flat&logo=adobe%20xd&logoColor=FF61F6)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white)
+## 🌐 Find Me
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blue?style=for-the-badge)](https://monumental-brigadeiros-49e79d.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhiraj-nikam-b93028b7)
+
+---
+
+## 🛠️ Tech Stack
+
+**Mobile:** Flutter • Dart • Swift • Kotlin  
+**Backend:** Django • Node.js • TypeScript  
+**Tools:** Firebase • GraphQL • REST APIs • Git
+
+---
+
+## 🎯 Quick Stats
+
+```
+📱 Apps Published      → 8+
+👥 Team Leadership     → 2 developers managed
+⚡ Deploy Speed        → 96% faster (24h → 15min)
+🔧 VSCode Extension    → 300+ downloads
+```
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhirajnikam&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhirajnikam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajnikam&theme=default&hide_border=true" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirajnikam&theme=default&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajnikam&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
+
+- 🌙 **Nighters App:** 15K+ downloads
+- 🛠️ **Commit Wizard:** VSCode Extension with 300+ installs
+- 👔 **Customer Hero Award** at Atomic Loops
+- 🚀 **Employee #6** at early-stage startup
+
+---
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhirajnikam&theme=default&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=dhirajnikam&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together!</i>
 </p>
