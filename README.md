@@ -44,10 +44,23 @@
 
 ## 🏆 Achievements
 
-- 🌙 **Nighters App:** 15K+ downloads
-- 🛠️ **Commit Wizard:** VSCode Extension with 300+ installs
-- 👔 **Customer Hero Award** at Atomic Loops
+- 🌙 **Community Platform:** 15K+ downloads
+- 🛠️ **VSCode Extension:** 300+ installs
+- 👔 **Customer Hero Award** at previous company
 - 🚀 **Employee #6** at early-stage startup
+
+---
+
+## 💡 Available for Custom Work
+
+**Flutter Bounty Hunter** - Got a problem that can't be solved?
+
+✅ Custom SDK/Package development  
+✅ Flutter plugins from scratch  
+✅ Complex integrations & bug fixes  
+✅ Performance optimization
+
+**Let me know - I love solving challenging problems!**
 
 ---
 
