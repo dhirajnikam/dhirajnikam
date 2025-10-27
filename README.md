@@ -15,9 +15,11 @@
 
 ## 🛠️ Tech Stack
 
-**Mobile:** Flutter • Dart • Swift • Kotlin  
-**Backend:** Django • Node.js • TypeScript  
-**Tools:** Firebase • GraphQL • REST APIs • Git
+**Mobile:** React Native • Flutter • Swift (iOS) • Kotlin (Android) • Dart
+**Web:** React • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS • Material UI
+**Backend:** Node.js • Django • Express.js • Python • TypeScript • REST APIs • GraphQL
+**Database & Cloud:** Firebase • MongoDB • PostgreSQL • MySQL • AWS • Google Cloud Platform
+**Tools:** Git • GitHub • Docker • Postman • Figma • Redux
 
 ---
 
