@@ -1,6 +1,6 @@
 # Hi, I'm Dhiraj Nikam 👋
 
-**Lead Mobile Developer** building apps that people actually use.
+**Senior Mobile Developer** building apps that people actually use.
 
 🚀 **15K+ downloads** | 🏆 **Customer Hero Award** | 💻 **8+ Apps Published**
 
