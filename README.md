@@ -1,40 +1,58 @@
-# Hi, I'm Dhiraj Nikam 👋
+# Dhiraj Nikam
 
-**Senior Mobile Developer** building apps that people actually use.
+**Senior Software Engineer** — Flutter · React · AI workflows · Clean Architecture
 
-🚀 **15K+ downloads** | 🏆 **Customer Hero Award** | 💻 **8+ Apps Published**
+> I build products that ship — Flutter on mobile, React on the web, AI workflows underneath, clean architecture all the way down.
 
----
-
-## 🌐 Find Me
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blue?style=for-the-badge)](https://dhirajnikam.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhiraj-nikam-b93028b7)
+📍 Pune, India &nbsp;|&nbsp; 4+ years &nbsp;|&nbsp; 8+ apps shipped &nbsp;|&nbsp; 40K+ total downloads
 
 ---
 
-## 🛠️ Tech Stack
+## Work
 
-**Mobile:** Flutter • React Native • Swift (iOS) • Kotlin (Android) • Dart<br>
-**Web:** React • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS • Material UI<br>
-**Backend:** Node.js • Django • Express.js • Python • TypeScript • REST APIs • GraphQL<br>
-**Database & Cloud:** Firebase • MongoDB • PostgreSQL • MySQL • AWS • Google Cloud Platform<br>
-**Tools:** Git • GitHub • Docker • Postman • Figma • Redux
+| Project | What | Stack | Impact |
+|---|---|---|---|
+| **Brevity** | AI news aggregation | Flutter · BLoC · Gemini · Firebase | 20K+ downloads |
+| **Nighters** | Community & real-time chat | Flutter · Stream Chat · Flutter Map | 15K+ downloads |
+| **NewsCore** | AI cyber intelligence SaaS | React · Django · LangChain · LangGraph | French enterprise |
+| **AMS** | Renewable energy analytics | Flutter · Dart Isolates | Solar + wind platforms |
+| **FMS-OMS** | Field operations (multi-role) | Flutter · RBAC · GPS · Camera | Enterprise |
 
 ---
 
-## 🎯 Quick Stats
+## Open Source
+
+| Project | What |
+|---|---|
+| [**Commit Wizard**](https://marketplace.visualstudio.com/items?itemName=dhirajnikam1998.commit-wizard) | VSCode extension — AI-powered Git commit messages · 300+ installs |
+| [**flutter_api_client**](https://pub.dev/packages/flutter_api_client) | HTTP client with offline-mode & background-request support |
+| [**snack_pack**](https://pub.dev/packages/snack_pack) | Snackbar management for Flutter — no overlap, no boilerplate |
+| [**Nodey**](https://github.com/DN-OpenSource/nodey) | Go CLI / TUI for building and visualising flowchart logic |
+
+---
+
+## Stack
+
+**Mobile** — Flutter · Dart · BLoC · Riverpod · GetX · Method Channels · WebRTC · WebSocket  
+**Frontend** — React · TypeScript · Vite  
+**Backend** — Node.js · Django · Express · Firebase · Serverpod  
+**AI / LLM** — Gemini · Claude · OpenAI · LangChain · LangGraph · MCP  
+**DevOps** — Git · GitHub · Shorebird · App Store · Play Store
+
+---
+
+## Stats
 
 ```
-📱 Apps Published      → 8+
-👥 Team Leadership     → 2 developers managed
-⚡ Deploy Speed        → 96% faster (24h → 15min)
-🔧 VSCode Extension    → 300+ downloads
+Total downloads     → 40K+
+Apps shipped        → 8+
+Deploy speed        → 96% faster (24h → 15 min via Shorebird)
+Commit Wizard       → 300+ installs
 ```
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhirajnikam&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -44,32 +62,13 @@
 
 ---
 
-## 🏆 Achievements
+## Links
 
-- 🌙 **Community Platform:** 15K+ downloads
-- 🛠️ **VSCode Extension:** 300+ installs
-- 👔 **Customer Hero Award** at previous company
-- 🚀 **Employee #6** at early-stage startup
-
----
-
-## 💡 Available for Custom Work
-
-**Flutter Bounty Hunter** - Got a problem that can't be solved?
-
-✅ Custom SDK/Package development  
-✅ Flutter plugins from scratch  
-✅ Complex integrations & bug fixes  
-✅ Performance optimization
-
-**Let me know - I love solving challenging problems!**
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhirajnikam.dev-black?style=flat-square)](https://dhirajnikam.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhiraj--nikam-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhiraj-nikam-b93028b7)
+[![pub.dev](https://img.shields.io/badge/pub.dev-dhirajnikam-02569B?style=flat-square&logo=dart)](https://pub.dev/publishers/dhirajnikam.dev)
+[![Email](https://img.shields.io/badge/Email-dhirajnikam78@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:dhirajnikam78@gmail.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhirajnikam&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>Let's build something amazing together!</i>
 </p>
