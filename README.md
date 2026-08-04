@@ -40,8 +40,6 @@ Production products across mobile, web, full-stack systems, and AI.
 ## Open Source
 
 - **[Commit Wizard](https://marketplace.visualstudio.com/items?itemName=dhirajnikam1998.commit-wizard)** — VS Code extension for generating AI-assisted commit messages from staged diffs. **300+ installs**.
-- **Serverpod MCP Server** — Open-source tooling that lets AI coding agents introspect and generate Serverpod backend code. Add the package link once its public package page is confirmed.
-- **Uttara API Client** — Type-safe Flutter HTTP client with interceptors and error handling. Add the package link once its public package page is confirmed.
 - **[flutter_api_client](https://pub.dev/packages/flutter_api_client)** — HTTP client with offline-mode and background-request support.
 - **[snack_pack](https://pub.dev/packages/snack_pack)** — Snackbar management for Flutter with responsive positioning and animations.
 - **[Nodey](https://github.com/DN-OpenSource/nodey)** — Go CLI/TUI for building and visualising flowchart logic.
