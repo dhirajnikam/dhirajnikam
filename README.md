@@ -4,7 +4,7 @@
 
 I build production software across Flutter mobile, React web, backend systems, and applied AI. I have 4+ years of experience shipping products, with 8+ apps shipped, 40K+ combined downloads, and 300+ installs for Commit Wizard.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dhirajnikam.dev-F7C948?style=for-the-badge)](https://dhirajnikam.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhirajnikam.dev-F7C948?style=for-the-badge)](https://dhirajnikam.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiraj-nikam-b93028b7)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhirajnikam)
 [![pub.dev](https://img.shields.io/badge/pub.dev-Packages-02569B?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/dhirajnikam.dev)
